@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Lassa fever prediction using data from Nigeria's national surveillance registry"
+type: software
+authors:
+  - family-names: Egwu
+    given-names: Samuel Onuche-Ojo
+    orcid: "https://orcid.org/0009-0006-2023-9790"
+  - family-names: Edoh
+    given-names: Francis
+    orcid: "https://orcid.org/0009-0000-6881-0446"
+  - family-names: Abdulazeez
+    given-names: Faiz
+    orcid: "https://orcid.org/0009-0004-9997-7803"
+  - family-names: Longkang
+    given-names: Emmanuel
+    orcid: "https://orcid.org/0009-0009-5435-5820"
+repository-code: "https://github.com/EgwuSamuel/lassa-fever-benchmark"
+license: MIT

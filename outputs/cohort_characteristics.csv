@@ -1,0 +1,8 @@
+characteristic,not_a_case,confirmed
+n,16865,3162
+"Age, years, median (IQR)",29 (16-45),32 (20-45)
+"Age under 5 years, %",10.6,4.8
+"Sex, female, n (%)",7918 (46.9),1394 (44.1)
+"Sex, male, n (%)",8626 (51.1),1724 (54.5)
+"Sex, not recorded, n (%)",321 (1.9),44 (1.4)
+"Onset-to-presentation interval, days, median (IQR) [% unavailable]",5 (2-8) [47.4],6 (3-10) [36.8]

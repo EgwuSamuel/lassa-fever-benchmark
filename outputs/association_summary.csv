@@ -1,0 +1,2 @@
+n_training,spearman_F_vs_chi_square_binary,spearman_F_vs_mutual_info,top15_shared_F_and_MI,numeric_in_top15_F,spearman_F_training_vs_full_cohort,top15_shared_training_and_full_cohort
+16021,0.9999999999999999,0.9780725603510412,13,0,0.9899088253518632,15

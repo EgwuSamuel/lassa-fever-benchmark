@@ -1,0 +1,2 @@
+distinct_responses_binary_predictors,n_symptom_block_fields,pct_records_symptom_block_all_blank,pct_records_symptom_block_none_blank,pct_records_any_unknown,most_frequent_age,n_records_most_frequent_age,pct_records_most_frequent_age,source_age_band_of_most_frequent_age,n_test_sex_not_recorded,n_test_state_not_recorded
+NO | No | UNKNOWN | Unknown | YES | Yes,40,16.013381934388576,79.48769161631797,14.994757077944776,63,862,4.3041893443850805,65+: 862,82,418

@@ -1,0 +1,2 @@
+model,brier,mean_predicted_probability,observed_prevalence,calibration_slope,f1_max_threshold_cv,f1_max_threshold_test_for_reference,out_of_fold_f1_at_cv_threshold
+LogReg,0.2123156521469273,0.4486695444696859,0.15776335496754867,0.9481774844552405,0.5463100322629336,0.5470732987706661,0.39687312086543364

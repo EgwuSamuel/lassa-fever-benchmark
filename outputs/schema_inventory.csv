@@ -1,0 +1,100 @@
+column,label,dtype,n_unique,pct_blank
+DID,,str,20062,0.0
+Disease,,str,1,0.0
+Pregnancy,,str,4,0.0
+DateofdischargeortransferMdyyyy,,object,451,94.9
+DateofdeathMdyyyy,,object,398,96.8
+Symptomatic,,str,3,0.0
+InitialSampleFinalLaboratoryResultPathogentest,,str,5,0.0
+LatestSampleDate,,object,533,93.6
+LatestSampleFinalLaboratoryResultPathogentest,,str,5,0.0
+date_of_outcome,,str,956,0.0
+date_of_outcome2,,object,951,71.0
+date_visit_or_admision2,,object,1273,39.6
+date_symptom_onset2,,object,1402,17.1
+initial_sample_date2,,object,1240,9.1
+date_of_report_years,,float64,4,0.0
+sex_new2,,float64,2,1.8
+date_of_visit_or_admision2,,object,1272,39.7
+date_symptom_onset2_A,date_symptom_onset2,object,1407,17.5
+age_recode,,object,99,0.0
+age_grouped,age in group,object,14,0.0
+age_group2,age grouped into 4,object,4,0.0
+date_report_years,date of report in years,object,4,0.0
+state_residence_new,,object,37,10.2
+geopolitical_zone,States grouped into geopolitical zones,object,6,10.2
+State_hotspot_others,Hotspot States and others,object,7,0.0
+case_calssification,,object,3,0.0
+outcome_case,,object,3,0.0
+case_classification_recode,case classification recoded,object,2,0.2
+contact_with_source_case_new,,object,3,86.9
+direct_contact_probable_case,,object,3,47.9
+rodents_excreta,,object,3,47.9
+abdominal_pain,,object,3,16.1
+acute_hearing_loss,,object,3,16.2
+alteered_consciousness,,object,3,16.9
+anorexia_loss_of_appetite,,object,3,16.1
+area_type,,object,3,74.3
+backache_new,,object,2,20.4
+bleeding_injection_site,,object,3,20.5
+bleeding_from_eyes,,object,3,20.5
+bleeding_from_vagina,,object,3,20.5
+bleeding_gums,,object,3,20.5
+bleeding_bruising,,object,3,16.8
+blood_in_stool,,object,1,20.5
+blackening_death_of,,object,1,20.5
+blood_urine,,object,3,20.5
+bloody_black_stool,,object,3,20.5
+bruising_skin_pete,,object,3,20.4
+burial_of_case,,object,12,99.9
+chest_pain,,object,3,16.1
+chills_sweats,,object,2,19.6
+confused_disoriented,,object,3,16.8
+conjunctivities_new,,object,1,20.5
+conjunctivities_red_eyes,,object,3,16.1
+cough_new,,object,3,16.1
+coughing_out_blood,,object,3,20.4
+dark_urine,,object,1,19.8
+diarrhea_new,,object,3,16.1
+difficulty_breathing,,object,3,16.1
+digested_blood_coffee,,object,3,20.5
+fatigue_weakness,,object,3,16.1
+fever_new,,object,3,16.1
+first_symptom,,object,50,50.9
+fresh_blood_vomit,,object,3,20.5
+headache_new,,object,3,16.1
+hiccups_new,,object,1,20.5
+jaundice_new,,object,3,16.3
+joint_pain_arthritis,,object,3,16.1
+left_against_advise,,object,4,71.9
+LGA_of_residence,,object,478,11.1
+lga_new,,object,496,0.0
+malaise_new,,object,3,16.9
+muscle_pain,,object,3,16.1
+nausea_new,,object,3,16.1
+nose_bleeding,,object,3,20.4
+oedema_face_neck,,object,3,16.2
+other_clinical_symptoms,,object,3,16.9
+other_hemorrhagic_symptoms,,object,3,20.5
+pain_behind_eyes,,object,3,16.9
+pregnancy_new,,object,3,88.5
+present_condition,,object,4,17.2
+refusal_feeding_drink,,object,3,16.9
+side_pain,,object,3,17.0
+sore_throat,,object,3,16.1
+specify_other_symptoms,,object,23,20.5
+specify_other_symptoms_A,,object,627,20.5
+State_new,,object,37,0.0
+travelled_outside_district,,object,2,0.0
+travel_history,,object,62,99.7
+vomiting_new,,object,3,16.8
+area_type_new,place of residence,object,2,74.4
+educ_updatedcat,education updated categories,object,4,0.0
+Stateofresidence_updated,,str,37,0.0
+occupation_updated_new,,object,17,2.8
+Stateofresidence_updated_new,,object,37,0.0
+age_group3,age grouped3,object,8,0.0
+length_stay_hospital,discharge date minus date of visit/admission,float64,97,96.8
+DateofreportMdyyyy,Date of report,object,1294,0.0
+date_report_months,date of report in months,float64,12,0.0
+date_onset_months,date of onset of symptom in months,float64,12,17.1

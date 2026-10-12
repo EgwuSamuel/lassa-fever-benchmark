@@ -1,0 +1,78 @@
+feature,label,variable,coefficient,coefficient_centred,odds_ratio,scale
+bin__other_hemorrhagic_symptoms,Other haemorrhagic symptoms,other_hemorrhagic_symptoms,-1.3285739750257959,-1.3285739750257959,0.2648546815209187,yes vs no
+bin__fever_new,Fever,fever_new,1.2625280655486606,1.2625280655486606,3.5343452591593794,yes vs no
+bin__digested_blood_coffee,Coffee-ground vomit,digested_blood_coffee,-1.1457742105371176,-1.1457742105371176,0.31797764082751434,yes vs no
+bin__contact_with_source_case_new,Contact with a source case,contact_with_source_case_new,1.0631210678333485,1.0631210678333485,2.8953936217174587,yes vs no
+bin__jaundice_new,Jaundice,jaundice_new,-0.9287635888832529,-0.9287635888832529,0.39504184266917347,yes vs no
+bin__pain_behind_eyes,Pain behind the eyes,pain_behind_eyes,-0.7938897397508274,-0.7938897397508274,0.4520828860471191,yes vs no
+bin__blood_urine,Blood in urine,blood_urine,0.7603091451353786,0.7603091451353786,2.1389373603773043,yes vs no
+bin__vomiting_new,Vomiting,vomiting_new,0.746141657510834,0.746141657510834,2.1088476429374476,yes vs no
+bin__bleeding_injection_site,Bleeding at injection site,bleeding_injection_site,0.6283278273311548,0.6283278273311548,1.8744735137595399,yes vs no
+bin__malaise_new,Malaise,malaise_new,0.6115963838424395,0.6115963838424395,1.8433717800939304,yes vs no
+bin__fatigue_weakness,Fatigue or weakness,fatigue_weakness,0.5999013869082311,0.5999013869082311,1.8219391244813763,yes vs no
+cat__state_residence_new_Plateau,State of residence: Plateau,state_residence_new,-0.5939232967443955,-0.5230099120138892,0.5927337837807974,level vs average level
+cat__occupation_updated_new_Healthworker,Occupation: Healthworker,occupation_updated_new,-0.5783108736544786,-0.5073974889239727,0.6020604105699957,level vs average level
+bin__bleeding_bruising,Bleeding or bruising,bleeding_bruising,-0.5072359234802726,-0.5072359234802726,0.6021576905856966,yes vs no
+bin__bleeding_from_eyes,Bleeding from eyes,bleeding_from_eyes,0.4878841829106415,0.4878841829106415,1.628866188506767,yes vs no
+bin__chest_pain,Chest pain,chest_pain,0.48492387727317515,0.48492387727317515,1.6240513769193747,yes vs no
+bin__conjunctivities_red_eyes,Conjunctivitis (red eyes),conjunctivities_red_eyes,-0.4428200644349225,-0.4428200644349225,0.6422227554062572,yes vs no
+bin__abdominal_pain,Abdominal pain,abdominal_pain,0.4390235941515828,0.4390235941515828,1.5511918860124483,yes vs no
+bin__nose_bleeding,Nose bleeding,nose_bleeding,0.42202402177404624,0.42202402177404624,1.5250451585334812,yes vs no
+cat__educ_updatedcat_No formal education,Educational level: No formal education,educ_updatedcat,-0.6226428238289252,-0.40990266963753796,0.6637148465992607,level vs average level
+cat__occupation_updated_new_Artisan,Occupation: Artisan,occupation_updated_new,0.3005173864034726,0.3714307711339785,1.449807474099756,level vs average level
+bin__coughing_out_blood,Coughing blood,coughing_out_blood,-0.32660994969572166,-0.32660994969572166,0.7213650568196834,yes vs no
+cat__occupation_updated_new_Unemployed,Occupation: Unemployed,occupation_updated_new,0.2433561107136693,0.3142694954441752,1.3692586958091404,level vs average level
+cat__educ_updatedcat_Secondary,Educational level: Secondary,educ_updatedcat,0.08210388472265426,0.2948440389140415,1.3429168995749563,level vs average level
+bin__bleeding_gums,Bleeding gums,bleeding_gums,0.29219698676850925,0.29219698676850925,1.3393668291982797,yes vs no
+bin__fresh_blood_vomit,Fresh blood in vomit,fresh_blood_vomit,0.2720239479647452,0.2720239479647452,1.3126184354747312,yes vs no
+cat__occupation_updated_new_infrequent_sklearn,Occupation: other levels,occupation_updated_new,0.20068661352398,0.2715999982544859,1.3120620692133216,level vs average level
+cat__state_residence_new_Edo,State of residence: Edo,state_residence_new,0.19842214450937606,0.2693355292398823,1.309094306783563,level vs average level
+bin__muscle_pain,Muscle pain,muscle_pain,0.2639041519432628,0.2639041519432628,1.302003395824693,yes vs no
+cat__occupation_updated_new_Teacher/Lecturer,Occupation: Teacher/Lecturer,occupation_updated_new,-0.32354086975531693,-0.252627485024811,0.7767571816183779,level vs average level
+bin__refusal_feeding_drink,Refusal to feed or drink,refusal_feeding_drink,0.23562324171997087,0.23562324171997087,1.2656973583649764,yes vs no
+bin__anorexia_loss_of_appetite,Anorexia or loss of appetite,anorexia_loss_of_appetite,0.23425009243867223,0.23425009243867223,1.2639605596618415,yes vs no
+cat__state_residence_new_Ebonyi,State of residence: Ebonyi,state_residence_new,-0.3028916749578661,-0.23197829022735988,0.7929633381736013,level vs average level
+bin__side_pain,Side pain,side_pain,-0.228099501367153,-0.228099501367153,0.7960450483240686,yes vs no
+bin__confused_disoriented,Confusion or disorientation,confused_disoriented,0.21198372373126964,0.21198372373126964,1.2361277653670728,yes vs no
+cat__educ_updatedcat_Tertiary,Educational level: Tertiary,educ_updatedcat,-0.0008331316871346464,0.21190702250425258,1.2360329564867445,level vs average level
+bin__pregnancy_new,Pregnancy,pregnancy_new,0.20921839338937284,0.20921839338937284,1.2327141857639858,yes vs no
+bin__difficulty_breathing,Difficulty breathing,difficulty_breathing,-0.20475404689401702,-0.20475404689401702,0.8148477060913886,yes vs no
+bin__bruising_skin_pete,Skin bruising or petechiae,bruising_skin_pete,0.20045336842399647,0.20045336842399647,1.2219566291480233,yes vs no
+bin__rodents_excreta,Contact with rodents or their excreta,rodents_excreta,-0.2003487667095981,-0.2003487667095981,0.8184452568358705,yes vs no
+cat__occupation_updated_new_Trader,Occupation: Trader,occupation_updated_new,-0.24168265505482628,-0.17076927032432038,0.8430160598559502,level vs average level
+cat__state_residence_new_Fct,State of residence: Fct,state_residence_new,0.09306518846202211,0.16397857319252834,1.1781890699918942,level vs average level
+bin__cough_new,Cough,cough_new,-0.15487800590914183,-0.15487800590914183,0.8565196614476713,yes vs no
+bin__sore_throat,Sore throat,sore_throat,-0.14508459647767408,-0.14508459647767408,0.864949118366841,yes vs no
+cat__occupation_updated_new_Civil/Public servant,Occupation: Civil/Public servant,occupation_updated_new,0.07071800242444591,0.1416313871549518,1.1521518722732549,level vs average level
+cat__occupation_updated_new_farming/livestock,Occupation: farming/livestock,occupation_updated_new,0.06711304523697068,0.13802642996747655,1.1480058916315952,level vs average level
+cat__occupation_updated_new_child/pupil,Occupation: child/pupil,occupation_updated_new,-0.2032014852248168,-0.1322881004943109,0.8760885571709952,level vs average level
+bin__chills_sweats,Chills or sweats,chills_sweats,-0.1287285943022364,-0.1287285943022364,0.8792125564640209,yes vs no
+bin__bloody_black_stool,Bloody or black stool,bloody_black_stool,0.12842957944019467,0.12842957944019467,1.1370413473836192,yes vs no
+cat__occupation_updated_new_Retiree,Occupation: Retiree,occupation_updated_new,-0.19791877669634284,-0.12700539196583693,0.8807289237240857,level vs average level
+cat__state_residence_new_Delta,State of residence: Delta,state_residence_new,-0.19747280332845166,-0.12655941859794542,0.8811217929664965,level vs average level
+bin__oedema_face_neck,Oedema of face or neck,oedema_face_neck,0.12517464246219093,0.12517464246219093,1.1333463661842118,yes vs no
+cat__state_residence_new_Ondo,State of residence: Ondo,state_residence_new,0.05388818814677985,0.12480157287728608,1.1329236279861112,level vs average level
+bin__backache_new,Backache,backache_new,0.12358188469087625,0.12358188469087625,1.1315426567692903,yes vs no
+num__onset_to_admission_days,Onset-to-presentation interval,onset_to_admission_days,0.12090372088316804,0.12090372088316804,1.1285162545883682,per 1 SD increase
+cat__occupation_updated_new_Student,Occupation: Student,occupation_updated_new,-0.18330166862263159,-0.1123882838921257,0.8936971819026149,level vs average level
+cat__educ_updatedcat_Nursery/primary,Educational level: Nursery/primary,educ_updatedcat,-0.3095885459721433,-0.09684839178075608,0.9076936095138648,level vs average level
+cat__state_residence_new_Lagos,State of residence: Lagos,state_residence_new,0.017324186671008854,0.08823757140151509,1.092247577995224,level vs average level
+bin__diarrhea_new,Diarrhoea,diarrhea_new,-0.08140298618973403,-0.08140298618973403,0.9218221349937836,yes vs no
+bin__headache_new,Headache,headache_new,0.07608302498394962,0.07608302498394962,1.0790521587265127,yes vs no
+bin__nausea_new,Nausea,nausea_new,0.07205145914027379,0.07205145914027379,1.074710646326801,yes vs no
+cat__state_residence_new_Kaduna,State of residence: Kaduna,state_residence_new,-0.001529074348896885,0.06938431038160935,1.0718480523394922,level vs average level
+cat__occupation_updated_new_Housewife,Occupation: Housewife,occupation_updated_new,-0.005395446060196154,0.06551793867030974,1.0677118904732954,level vs average level
+bin__joint_pain_arthritis,Joint pain,joint_pain_arthritis,-0.06347499955370893,-0.06347499955370893,0.9384975818657653,yes vs no
+cat__state_residence_new_Taraba,State of residence: Taraba,state_residence_new,-0.007537570747299281,0.06337581398320695,1.065427166429547,level vs average level
+cat__state_residence_new_Kogi,State of residence: Kogi,state_residence_new,-0.0075862201954920196,0.06332716453501422,1.0653753352466002,level vs average level
+cat__sex_new2_2.0,Sex: male,sex_new2,-0.37196963891066326,0.053510669472706884,1.0549682476624689,level vs average level
+cat__sex_new2_1.0,Sex: female,sex_new2,-0.478990977856077,-0.053510669472706884,0.9478958274011904,level vs average level
+bin__other_clinical_symptoms,Other clinical symptoms,other_clinical_symptoms,-0.05305791049342741,-0.05305791049342741,0.9483250929180436,yes vs no
+cat__state_residence_new_Bauchi,State of residence: Bauchi,state_residence_new,-0.027289877282068286,0.043623507448437945,1.0445890008673904,level vs average level
+bin__bleeding_from_vagina,Vaginal bleeding,bleeding_from_vagina,0.042085085282552684,0.042085085282552684,1.0429832174972875,yes vs no
+bin__acute_hearing_loss,Acute hearing loss,acute_hearing_loss,0.03790707435717916,0.03790707435717916,1.0386347125956386,yes vs no
+bin__travelled_outside_district,Travel outside the district,travelled_outside_district,0.03738352907741846,0.03738352907741846,1.0380910826143361,yes vs no
+bin__alteered_consciousness,Altered consciousness,alteered_consciousness,0.02731052736659188,0.02731052736659188,1.0276868781200539,yes vs no
+bin__direct_contact_probable_case,Direct contact with a probable case,direct_contact_probable_case,0.0059816963834989035,0.0059816963834989035,1.005999622454258,yes vs no
+num__age_recode,Age,age_recode,0.005234035196895766,0.005234035196895766,1.0052477566882612,per 1 SD increase
+cat__state_residence_new_infrequent_sklearn,State of residence: other levels,state_residence_new,-0.07542980695079203,-0.004516422220285796,0.9954937614774887,level vs average level

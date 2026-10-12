@@ -1,0 +1,6 @@
+# The dataset is not redistributed here; download_data.py fetches it from Zenodo
+data/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc

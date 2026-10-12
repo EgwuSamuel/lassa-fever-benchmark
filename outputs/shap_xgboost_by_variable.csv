@@ -1,0 +1,52 @@
+variable,mean_abs_shap,label,rank
+onset_to_admission_days,0.2889228,Onset-to-presentation interval,1
+fever_new,0.2251071,Fever,2
+fatigue_weakness,0.210367,Fatigue or weakness,3
+age_recode,0.20994212,Age,4
+vomiting_new,0.20261912,Vomiting,5
+occupation_updated_new,0.16942711,Occupation,6
+state_residence_new,0.15988621,State of residence,7
+abdominal_pain,0.13942383,Abdominal pain,8
+headache_new,0.093398474,Headache,9
+educ_updatedcat,0.091634244,Educational level,10
+chest_pain,0.06098066,Chest pain,11
+sex_new2,0.0598249,Sex,12
+cough_new,0.055847093,Cough,13
+contact_with_source_case_new,0.053243797,Contact with a source case,14
+malaise_new,0.045437098,Malaise,15
+anorexia_loss_of_appetite,0.03667962,Anorexia or loss of appetite,16
+diarrhea_new,0.023297422,Diarrhoea,17
+direct_contact_probable_case,0.018266851,Direct contact with a probable case,18
+muscle_pain,0.016737863,Muscle pain,19
+other_clinical_symptoms,0.015491638,Other clinical symptoms,20
+sore_throat,0.014874084,Sore throat,21
+blood_urine,0.013001612,Blood in urine,22
+bleeding_bruising,0.012062444,Bleeding or bruising,23
+jaundice_new,0.009793711,Jaundice,24
+refusal_feeding_drink,0.008501393,Refusal to feed or drink,25
+nausea_new,0.008187923,Nausea,26
+confused_disoriented,0.008123503,Confusion or disorientation,27
+difficulty_breathing,0.0065713553,Difficulty breathing,28
+nose_bleeding,0.004608486,Nose bleeding,29
+conjunctivities_red_eyes,0.0043347725,Conjunctivitis (red eyes),30
+oedema_face_neck,0.0038696895,Oedema of face or neck,31
+rodents_excreta,0.0034379463,Contact with rodents or their excreta,32
+joint_pain_arthritis,0.0024109867,Joint pain,33
+alteered_consciousness,0.0023788451,Altered consciousness,34
+bleeding_gums,0.0017887115,Bleeding gums,35
+travelled_outside_district,0.0015202143,Travel outside the district,36
+pain_behind_eyes,0.0009965618,Pain behind the eyes,37
+pregnancy_new,0.000918498,Pregnancy,38
+bloody_black_stool,0.00081535586,Bloody or black stool,39
+side_pain,0.00077139895,Side pain,40
+bleeding_from_vagina,0.00035428937,Vaginal bleeding,41
+fresh_blood_vomit,0.00029290104,Fresh blood in vomit,42
+coughing_out_blood,0.0002504262,Coughing blood,43
+bleeding_injection_site,0.00012572094,Bleeding at injection site,44
+acute_hearing_loss,8.160584e-05,Acute hearing loss,45
+other_hemorrhagic_symptoms,5.335222e-05,Other haemorrhagic symptoms,46
+bleeding_from_eyes,0.0,Bleeding from eyes,47
+chills_sweats,0.0,Chills or sweats,48
+bruising_skin_pete,0.0,Skin bruising or petechiae,49
+backache_new,0.0,Backache,50
+digested_blood_coffee,0.0,Coffee-ground vomit,51

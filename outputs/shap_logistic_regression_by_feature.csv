@@ -1,0 +1,78 @@
+feature,label,mean_abs_shap
+bin__fever_new,Fever,0.29778849519144834
+cat__sex_new2_1.0,Sex: female,0.2383095967657189
+cat__sex_new2_2.0,Sex: male,0.18506389213145466
+bin__fatigue_weakness,Fatigue or weakness,0.17656015630567518
+bin__vomiting_new,Vomiting,0.17570860977476888
+bin__abdominal_pain,Abdominal pain,0.14948419631238583
+cat__educ_updatedcat_No formal education,Educational level: No formal education,0.14740970063395714
+cat__state_residence_new_Edo,State of residence: Edo,0.09802611596024813
+cat__occupation_updated_new_Trader,Occupation: Trader,0.06556614630038286
+num__onset_to_admission_days,Onset-to-presentation interval,0.06532719327418765
+cat__educ_updatedcat_Nursery/primary,Educational level: Nursery/primary,0.06280765537019649
+cat__occupation_updated_new_Unemployed,Occupation: Unemployed,0.05520409159647133
+bin__contact_with_source_case_new,Contact with a source case,0.054903270718382254
+bin__chest_pain,Chest pain,0.05032793509004906
+cat__occupation_updated_new_Student,Occupation: Student,0.0489741055182205
+cat__occupation_updated_new_child/pupil,Occupation: child/pupil,0.040265412886921835
+bin__cough_new,Cough,0.03764422960969598
+cat__occupation_updated_new_Healthworker,Occupation: Healthworker,0.037399708874541505
+bin__bleeding_bruising,Bleeding or bruising,0.03735941727922366
+bin__headache_new,Headache,0.03559659201061712
+cat__educ_updatedcat_Secondary,Educational level: Secondary,0.034127968282662784
+bin__anorexia_loss_of_appetite,Anorexia or loss of appetite,0.03394030078466606
+bin__malaise_new,Malaise,0.0332450581841549
+cat__state_residence_new_Ebonyi,State of residence: Ebonyi,0.032536075636854095
+cat__occupation_updated_new_Civil/Public servant,Occupation: Civil/Public servant,0.026336903663811532
+cat__occupation_updated_new_Teacher/Lecturer,Occupation: Teacher/Lecturer,0.02410803244287741
+cat__state_residence_new_Plateau,State of residence: Plateau,0.020722339212976806
+cat__state_residence_new_Ondo,State of residence: Ondo,0.017620513750611595
+bin__jaundice_new,Jaundice,0.017454932710688542
+bin__sore_throat,Sore throat,0.01732138267486218
+bin__muscle_pain,Muscle pain,0.016390796468641285
+bin__blood_urine,Blood in urine,0.015411488240276319
+bin__difficulty_breathing,Difficulty breathing,0.013562641528443262
+bin__diarrhea_new,Diarrhoea,0.01073810582490459
+bin__conjunctivities_red_eyes,Conjunctivitis (red eyes),0.010215793292834133
+cat__occupation_updated_new_Artisan,Occupation: Artisan,0.00952372752250579
+cat__state_residence_new_infrequent_sklearn,State of residence: other levels,0.008522380869955715
+bin__refusal_feeding_drink,Refusal to feed or drink,0.008474170681823948
+bin__nose_bleeding,Nose bleeding,0.00818956456667538
+cat__state_residence_new_Delta,State of residence: Delta,0.007778588602674916
+cat__occupation_updated_new_farming/livestock,Occupation: farming/livestock,0.0066215463872645675
+bin__nausea_new,Nausea,0.006381421750519678
+bin__pain_behind_eyes,Pain behind the eyes,0.005481749649077112
+bin__other_clinical_symptoms,Other clinical symptoms,0.005033804399691053
+cat__occupation_updated_new_infrequent_sklearn,Occupation: other levels,0.005021229875065146
+bin__rodents_excreta,Contact with rodents or their excreta,0.004354424240722936
+bin__bleeding_gums,Bleeding gums,0.004344070142399409
+num__age_recode,Age,0.00420410324960225
+bin__digested_blood_coffee,Coffee-ground vomit,0.004069240004720623
+cat__occupation_updated_new_Retiree,Occupation: Retiree,0.003986177485779115
+bin__other_hemorrhagic_symptoms,Other haemorrhagic symptoms,0.0038088058593228687
+bin__confused_disoriented,Confusion or disorientation,0.0037891074885636313
+bin__side_pain,Side pain,0.0036573788928115133
+bin__bleeding_injection_site,Bleeding at injection site,0.0032083522854696876
+bin__fresh_blood_vomit,Fresh blood in vomit,0.0028373084729446762
+bin__coughing_out_blood,Coughing blood,0.0025992004384182373
+bin__joint_pain_arthritis,Joint pain,0.002591368197931792
+cat__state_residence_new_Bauchi,State of residence: Bauchi,0.002013013138056574
+bin__bloody_black_stool,Bloody or black stool,0.0017593517138530417
+bin__oedema_face_neck,Oedema of face or neck,0.0016915277684521278
+cat__state_residence_new_Fct,State of residence: Fct,0.0011200775109801583
+bin__pregnancy_new,Pregnancy,0.000821051817314842
+bin__alteered_consciousness,Altered consciousness,0.0006067465570651786
+bin__travelled_outside_district,Travel outside the district,0.0004430026870432238
+cat__educ_updatedcat_Tertiary,Educational level: Tertiary,0.00041298038570074133
+bin__bruising_skin_pete,Skin bruising or petechiae,0.00033751246222238395
+bin__acute_hearing_loss,Acute hearing loss,0.00031335705142752603
+bin__direct_contact_probable_case,Direct contact with a probable case,0.0003110352986610117
+cat__occupation_updated_new_Housewife,Occupation: Housewife,0.0002828242212140216
+bin__bleeding_from_eyes,Bleeding from eyes,0.0002739763059405959
+cat__state_residence_new_Taraba,State of residence: Taraba,0.00026431688366140605
+bin__bleeding_from_vagina,Vaginal bleeding,0.0002461979212953935
+cat__state_residence_new_Lagos,State of residence: Lagos,0.00018497622414456337
+cat__state_residence_new_Kogi,State of residence: Kogi,0.00012164453015353943
+cat__state_residence_new_Kaduna,State of residence: Kaduna,2.545658397975588e-05
+bin__chills_sweats,Chills or sweats,8.034991217916645e-06
+bin__backache_new,Backache,7.713743504830035e-06

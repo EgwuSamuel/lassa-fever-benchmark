@@ -1,0 +1,52 @@
+variable,mean_abs_shap,label,rank
+fever_new,0.29778849519144285,Fever,1
+educ_updatedcat,0.19313709391462489,Educational level,2
+occupation_updated_new,0.1836740709706342,Occupation,3
+fatigue_weakness,0.17656015630566463,Fatigue or weakness,4
+vomiting_new,0.17570860977476643,Vomiting,5
+abdominal_pain,0.14948419631238252,Abdominal pain,6
+state_residence_new,0.1269320991059669,State of residence,7
+onset_to_admission_days,0.0653271932741853,Onset-to-presentation interval,8
+contact_with_source_case_new,0.05490327071837809,Contact with a source case,9
+sex_new2,0.05324570463428092,Sex,10
+chest_pain,0.05032793509004452,Chest pain,11
+cough_new,0.03764422960969803,Cough,12
+bleeding_bruising,0.03735941727922192,Bleeding or bruising,13
+headache_new,0.03559659201061821,Headache,14
+anorexia_loss_of_appetite,0.03394030078466464,Anorexia or loss of appetite,15
+malaise_new,0.03324505818415551,Malaise,16
+jaundice_new,0.01745493271068925,Jaundice,17
+sore_throat,0.017321382674862877,Sore throat,18
+muscle_pain,0.01639079646864047,Muscle pain,19
+blood_urine,0.015411488240275552,Blood in urine,20
+difficulty_breathing,0.013562641528441692,Difficulty breathing,21
+diarrhea_new,0.0107381058249043,Diarrhoea,22
+conjunctivities_red_eyes,0.010215793292833696,Conjunctivitis (red eyes),23
+refusal_feeding_drink,0.008474170681824674,Refusal to feed or drink,24
+nose_bleeding,0.008189564566675286,Nose bleeding,25
+nausea_new,0.0063814217505197505,Nausea,26
+pain_behind_eyes,0.005481749649077301,Pain behind the eyes,27
+other_clinical_symptoms,0.0050338043996905665,Other clinical symptoms,28
+rodents_excreta,0.004354424240722929,Contact with rodents or their excreta,29
+bleeding_gums,0.004344070142399339,Bleeding gums,30
+age_recode,0.004204103249602234,Age,31
+digested_blood_coffee,0.004069240004720447,Coffee-ground vomit,32
+other_hemorrhagic_symptoms,0.0038088058593231224,Other haemorrhagic symptoms,33
+confused_disoriented,0.0037891074885635376,Confusion or disorientation,34
+side_pain,0.0036573788928117757,Side pain,35
+bleeding_injection_site,0.0032083522854696386,Bleeding at injection site,36
+fresh_blood_vomit,0.0028373084729446567,Fresh blood in vomit,37
+coughing_out_blood,0.0025992004384182564,Coughing blood,38
+joint_pain_arthritis,0.002591368197931681,Joint pain,39
+bloody_black_stool,0.0017593517138529548,Bloody or black stool,40
+oedema_face_neck,0.0016915277684520064,Oedema of face or neck,41
+pregnancy_new,0.0008210518173149294,Pregnancy,42
+alteered_consciousness,0.0006067465570652012,Altered consciousness,43
+travelled_outside_district,0.0004430026870432206,Travel outside the district,44
+bruising_skin_pete,0.000337512462222376,Skin bruising or petechiae,45
+acute_hearing_loss,0.0003133570514275174,Acute hearing loss,46
+direct_contact_probable_case,0.00031103529866101045,Direct contact with a probable case,47
+bleeding_from_eyes,0.0002739763059406028,Bleeding from eyes,48
+bleeding_from_vagina,0.0002461979212953794,Vaginal bleeding,49
+chills_sweats,8.034991217916258e-06,Chills or sweats,50
+backache_new,7.71374350482968e-06,Backache,51
